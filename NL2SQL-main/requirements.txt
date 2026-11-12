@@ -1,0 +1,15 @@
+sqlglot>=25.0
+rapidfuzz>=3.0
+SQLAlchemy>=2.0
+pandas>=2.0
+
+
+torch>=2.1
+transformers>=4.40
+huggingface_hub>=0.23
+accelerate>=0.30
+sentencepiece>=0.1.99   
+
+streamlit>=1.32
+
+pytest>=7.4
